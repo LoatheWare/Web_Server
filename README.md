@@ -1,6 +1,6 @@
 # Web Server i konfigurisanje Web servera na Windows Server 2019 u VirtualBox okruženju
 ## Šta je ovo?
-Ovo je maturski (završni) ispitni zadatak za smer **Administrator računarskih mreža**, vezan za instalaciju i konfigurisanje **veb servera** u domenskoj mreži. Zadatak obuhvata: instalaciju Windows Server-a i učlanjenje u domen, instalaciju **LAMP/WAMP** komponenti (Apache, MySQL/MariaDB, PHP), pokretanje **CMS** sistema (WordPress/Joomla), kreiranje virtuelnog hosta, dijagnostiku mrežnih problema na klijentskim računarima, i pravljenje rezervnih kopija veb aplikacije i baze podataka.
+Ovo je maturski (završni) ispitni zadatak za smer **Administrator računarskih mreža**, vezan za instalaciju i konfigurisanje **veb servera** u domenskoj mreži. Zadatak obuhvata: instalaciju Windows Server-a i učlanjenje u domen, instalaciju **LAMP/WAMP** komponenti (Apache, MySQL/MariaDB, PHP), pokretanje **CMS** sistema (WordPress/Joomla), kreiranje virtuelnog hosta, dijagnostiku mrežnih problema na klijentskim računarima, i pravljenje rezervnih kopija veb aplikacije i baze podataka. Zadak Vam je dat, kao i uputstvo za njegovo rešavanje. Ukoliko Vam nešto nije jasno tokom rešavanja ovih zadataka obratite mi se direktnom porukom na aplikaciji LinkedIn, www.linkedin.com/in/nikola-karanović-397185390
 
 ## Pitanja i odgovori — Web server, baze podataka i CMS
 
