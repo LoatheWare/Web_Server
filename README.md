@@ -1,4 +1,4 @@
-# Instalacija i konfigurisanje veb servera (Maturski ispit — АРМ-Б11)
+# Web Server i konfigurisanje Web servera na Windows Server 2019 u VirtualBox okruženju
 ## Šta je ovo?
 Ovo je maturski (završni) ispitni zadatak za smer **Administrator računarskih mreža**, vezan za instalaciju i konfigurisanje **veb servera** u domenskoj mreži. Zadatak obuhvata: instalaciju Windows Server-a i učlanjenje u domen, instalaciju **LAMP/WAMP** komponenti (Apache, MySQL/MariaDB, PHP), pokretanje **CMS** sistema (WordPress/Joomla), kreiranje virtuelnog hosta, dijagnostiku mrežnih problema na klijentskim računarima, i pravljenje rezervnih kopija veb aplikacije i baze podataka.
 
